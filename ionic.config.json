@@ -1,0 +1,7 @@
+{
+  "name": "mi-area",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}

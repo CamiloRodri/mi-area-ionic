@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "mi-area",
+	"webDir": "dist",
+	"bundledWebRuntime": false
+}
